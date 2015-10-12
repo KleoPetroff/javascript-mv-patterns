@@ -1,6 +1,6 @@
-# MCV (Model-View-Controller) Pattern
+# MVC (Model-View-Controller) Pattern
 
-MCV is an architectural pattern that encourages improved application organization through a separation of concerns. In enforces the isolation of data (Model) from the user interfaces (Views), with a third component (Controllers), traditionally managing logic and user-input. Separating concerns inside an application is a very important idea. Our application needs to change as frequently as we change our socks: at least once a year.
+MVC is an architectural pattern that encourages improved application organization through a separation of concerns. In enforces the isolation of data (Model) from the user interfaces (Views), with a third component (Controllers), traditionally managing logic and user-input. Separating concerns inside an application is a very important idea. Our application needs to change as frequently as we change our socks: at least once a year.
 
 Layering an application and maintaining modularity reduces the impact of the change. The less each layer knows about the other layers, the better. The pattern was suggested and designed by Trygve Reenskaug in the late 1970s during his time working on Smalltalk-80. It was not until 1988 that the pattern was documented in an article *[A cookbook for using the model-view-controller user interface paradigm](http://www.researchgate.net/publication/248825145_A_cookbook_for_using_the_model_-_view_controller_user_interface_paradigm_in_Smalltalk_-_80)*.
 
