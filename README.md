@@ -6,6 +6,6 @@ The majority of JavaScript Developers use this patterns to utilize libraries and
 
 # MV* Patterns
 
-- MVC Pattern
+- [MVC Pattern](https://github.com/KleoPetroff/javascript-mv-patterns/tree/master/mvc-pattern)
 - MVP Pattern
 - MVVM Pattern
